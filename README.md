@@ -3,8 +3,11 @@
 A data science project focused on analyzing the relationship between stock prices and quarterly revenue for technology companies (Tesla & GameStop).
 
 ## Visualizations
-![Tesla Stock vs Revenue](charts/tesla_chart.png)
+![Tesla Stock vs Revenue](tesla_chart.png)
 *Figure 1: Comparison of TSLA share price and revenue trends.*
+
+![GameStop Stock vs Revenue](gamestop_chart.png)
+*Figure 2: Comparison of GME share price and revenue trends.*
 
 ## Features
 - **Data Extraction:** Historical stock data retrieved via `yfinance` [web:2].
