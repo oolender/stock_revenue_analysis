@@ -2,6 +2,8 @@
 
 A data science project focused on analyzing the relationship between stock prices and quarterly revenue for technology companies (Tesla & GameStop).
 
+This pr
+
 ## Visualizations
 ![Tesla Stock vs Revenue](tesla_chart.png)
 *Figure 1: Comparison of TSLA share price and revenue trends.*
@@ -27,3 +29,11 @@ A data science project focused on analyzing the relationship between stock price
 4. Technologies
 Language: Python
 Libraries: Pandas, Matplotlib, BeautifulSoup4, YFinance, Requests
+
+## Certification & Acknowledgements
+This project was completed as part of the **"Python Project for Data Science"** course by **IBM** on **Coursera**. 
+
+- **Final Project Grade:** 100% 
+- **Certificate of Completion:** [View Certificate](https://www.coursera.org/account/accomplishments/verify/U59FRU06SUMQ)
+
+*Special thanks to the IBM Skills Network for providing the datasets and project framework.*
