@@ -10,7 +10,7 @@ A data science project focused on analyzing the relationship between stock price
 *Figure 2: Comparison of GME share price and revenue trends.*
 
 ## Features
-- **Data Extraction:** Historical stock data retrieved via `yfinance` [web:2].
+- **Data Extraction:** Historical stock data retrieved via `yfinance`.
 - **Web Scraping:** Quarterly revenue data extracted from HTML reports using `BeautifulSoup4`.
 - **Data Visualization:** Comparative dashboards built with `Matplotlib`.
 
