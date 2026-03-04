@@ -24,7 +24,7 @@ A data science project focused on analyzing the relationship between stock price
 3. Run the notebook:
    jupyter notebook Revenue-Data-and-Building-a-Dashboard.ipynb
 
-4. Technologies
+## Technologies
 Language: Python
 Libraries: Pandas, Matplotlib, BeautifulSoup4, YFinance, Requests
 
