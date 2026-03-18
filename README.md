@@ -22,7 +22,7 @@ A data science project focused on analyzing the relationship between stock price
    pip install -r requirements.txt
 
 3. Run the notebook:
-   jupyter notebook Revenue-Data-and-Building-a-Dashboard.ipynb
+   jupyter notebook revenue-data.ipynb
 
 ## Technologies
 Language: Python
